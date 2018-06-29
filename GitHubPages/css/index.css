@@ -1,0 +1,21 @@
+.header{
+    background-position: center;
+    
+    background-repeat: no-repeat;
+    background-color: #F1F1f1;
+    text-align: center;
+    padding: 90px;
+}
+p{
+    color: #F1F1f1;
+    text-align: center;
+}
+h1{
+    Color: #ff5722;/*Save this Cool Color, For Name Text*/
+    box-shadow: 1000px;
+    text-align: center ;
+    /*font-family: Tahoma;*/
+    font-size: 150pt;
+    /*background-color: lawngreen;*/
+
+}
