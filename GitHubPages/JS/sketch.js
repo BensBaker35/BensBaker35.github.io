@@ -14,9 +14,9 @@ const options = {
 
 
 function preload() {
-    hockeyplayers = loadTable('/csvTables/hockeydata.csv', 'header');
-    teamColors = loadTable('csvTables/teamColorData.csv', 'header');
-    cities = loadTable('/csvTables/cityLatLng.csv', 'header');
+    hockeyplayers = loadTable('/GitHubPages/csvTables/hockeydata.csv', 'header');
+    teamColors = loadTable('/GitHubPages/csvTables/teamColorData.csv', 'header');
+    cities = loadTable('/GitHubPages/csvTables/cityLatLng.csv', 'header');
 }
 
 function setup() {
