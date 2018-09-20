@@ -2,7 +2,7 @@
     height: 320px;
     widows: 640px;
     overflow: auto;
-    
+    background-color: white;   
 }
 body{
     background-color: rgb(66,66,66);
